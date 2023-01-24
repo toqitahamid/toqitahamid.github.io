@@ -18,7 +18,7 @@ project:
     - "files/**"
 
 
-freeze: auto
+freeze: false
 
 bibliography: files/bib/references.bib
 csl: files/bib/chicago-author-date.csl

@@ -1,0 +1,60 @@
+
+.push-down-3 {
+    margin-top: 3rem !important;
+  }
+
+  /* Degree area -------------------------------------------------------------------- */
+  #education {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  #education li {
+    margin-bottom: 1rem;
+  }
+  
+  .university {
+    color: gray;
+  }
+
+
+/* h3 {
+    margin: 0 0 2rem !important;
+    color: slategray;
+} */
+
+.h3, h3 {
+    font-size: calc(1.3rem + 0.6vw);
+}
+
+h3:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 0.5em;
+    border-top: 2px solid slategray;
+    z-index: -1;
+}
+
+/* Setting Lines after headers */
+h3 {
+    position: relative;
+}
+  
+h3 span {
+    background-color: white;
+    padding-right: 10px;
+}
+
+h3:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 0.5em;
+    border-top: 2px solid slategray;
+    z-index: -1;
+}

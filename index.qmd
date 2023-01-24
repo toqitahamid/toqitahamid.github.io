@@ -25,7 +25,7 @@ image-alt: "Portrait photo of the author with a transparent background"
 title-block-banner: "#011627"
 format:
   html:
-    # css: /files/html/calendar.css
+    css: /files/html/about.css
     quarto-template-params:
       banner-header-class: "home"
 page-layout: full
@@ -61,7 +61,7 @@ page-layout: full
 ::: {.g-col-12 .g-col-sm-8}
 
 ::: {.callout-important appearance="simple" icon=false}
-I am actively looking for a research assistantship position for Fall 23. If you are interested, please refer to my CV.
+I am actively looking for a research assistantship position for Fall 23. If you are interested, please refer to my [CV](/cv/tts-cv.pdf).
 :::
 
 
@@ -81,19 +81,36 @@ My **research interests** are:
 Visit my [Google Scholar](https://scholar.google.com/citations?user=i1SmuwYAAAAJ&hl=en) profile to see my publications.
 
 
-## <i class="fas fa-newspaper"></i> Recent Publications
-* Sarker, Toqi Tahamid, and Juan M. Banda. 2019. “Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation.” In 2019 [*IEEE International Conference on Big Data (Big Data)*](https://bigdataieee.org/BigData2019/), 4942–49 [<i class="fas fa-link"></i>](https://doi.org/10.1109/BigData47090.2019.9006273)
+<!-- ## <i class="fas fa-newspaper"></i> Recent Publications
+* Sarker, Toqi Tahamid, and Juan M. Banda. 2019. “Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation.” In 2019 [*IEEE International Conference on Big Data (Big Data)*](https://bigdataieee.org/BigData2019/), 4942–49 [<i class="fas fa-link"></i>](https://doi.org/10.1109/BigData47090.2019.9006273) -->
 
 
-## <i class="fas fa-newspaper"></i> Education
+```{=html}
+<h3 class="push-down-3">
+  <span><i class="fa-solid fa-book"></i> Recent Publications</span>
+</h3>
+<ul id="news">
+  <li>
+      <b>Sarker, Toqi Tahamid</b>, and Juan M. Banda. 2019. “Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation.” In 2019 <a href="https://bigdataieee.org/BigData2019/">IEEE International Conference on Big Data (Big Data)</a>, 4942–49  <a htrf="https://doi.org/10.1109/BigData47090.2019.9006273"><i class="fas fa-link"></i></a>
+  </li>
+</ul>
 
-BSc in Computer Science and Engineering, 2017
-<br>
-*BRAC University, Bangladesh*
 
-
-
+<h3 class="push-down-3">
+        <span><i class="fa-solid fa-graduation-cap"></i> Education</span>
+    </h3>
+    <ul id="education">
+        
+        <li>
+            BSc in Computer Science and Engineering, 2017
+            <br>
+            <span class="university"><em>BRAC University, Bangladesh</em></span>
+        </li>
+    </ul>
+```
 
 :::
 
 :::
+
+

@@ -7,7 +7,7 @@ title-block-banner: "#011627"
 published-title: CV last updated
 engine: knitr 
 cv:
-  pdf: "2023-01-24_toqi-tahamid-sarker-cv.pdf"
+  pdf: "tts-cv.pdf"
 ---
 
 ```{css echo=FALSE}
