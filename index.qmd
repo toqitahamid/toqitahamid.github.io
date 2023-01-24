@@ -25,6 +25,7 @@ image-alt: "Portrait photo of the author with a transparent background"
 title-block-banner: "#011627"
 format:
   html:
+    email-obfuscation: javascript
     css: /files/html/about.css
     quarto-template-params:
       banner-header-class: "home"
@@ -46,9 +47,40 @@ page-layout: full
   </div>
   <div class="g-col-1 g-col-sm-0"></div>
 </div>
-```
 
-<br>
+<p id="title">
+  Co-founder
+  <br>
+  <span id="program">penguin.com.bd</span>
+</p>
+
+<table class="table" id="contact-table">
+  <tbody>
+      <!-- <tr>
+          <td style="width:30px">
+              <i class="fas fa-home"></i>
+          </td>
+          <td>
+              Address Line 1
+              <br>
+              Address Line 2
+              <br>
+              Address Line 3
+          </td>
+      </tr> -->
+      <tr>
+          <td>
+              <i class="fa-solid fa-envelope"></i>
+          </td>
+          <td>
+              <a href="mailto:toqi.tahamid@gmail.com">toqi.tahamid at gmail dot com</a>
+          </td>
+      </tr>
+  </tbody>
+</table>
+
+
+```
 
 
 <!-- <a class="twitter-timeline" data-height="600" data-width="400"  href="https://twitter.com/toqitahamid?ref_src=twsrc%5Etfw">Tweets by toqitahamid</a>

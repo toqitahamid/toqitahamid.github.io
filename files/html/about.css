@@ -3,6 +3,24 @@
     margin-top: 3rem !important;
   }
 
+/* Contact info area, index.html page ------------------------------------------------- */
+#title {
+    color: #20364c;
+    margin-top: 2rem;
+    text-align: center;
+  }
+  
+  #program {
+    color: gray;
+    text-align: center;
+  }
+  
+  iframe {
+    padding: 3px;
+    border: 1px solid lightgray;
+  }
+
+
   /* Degree area -------------------------------------------------------------------- */
   #education {
     list-style-type: none;
