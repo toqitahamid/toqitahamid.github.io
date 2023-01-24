@@ -86,6 +86,7 @@ h3:after {
 /* Setting Lines after headers */
 h3 {
     position: relative;
+    font-size: 1.4rem;
 }
   
 h3 span {
