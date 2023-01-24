@@ -1,0 +1,99 @@
+---
+title: "Hello there!"
+pagetitle: "{{< meta website.title >}}"
+description-meta: "{{< meta website.description >}}"
+# image: /files/profiles/toqi-tahamid-sarker-2023.png
+main-photo: /files/profiles/toqi-tahamid-sarker-2023.png
+image-alt: "Portrait photo of the author with a transparent background"
+# about:
+#   # template: trestles
+#   template: solana
+#   links:
+#     - icon: github
+#       href: https://github.com/toqitahamid/
+#     - icon: twitter
+#       href: https://twitter.com/toqitahamid/
+#     - icon: linkedin
+#       href: https://www.linkedin.com/in/toqi/
+    
+    # - text: "{{< iconify simple-icons credly size=1.2em >}}"
+    #   href: https://www.credly.com/users/carl-goodwin/badges#
+    # - icon: mastodon
+    #   href: https://fosstodon.org/@cg
+      # rel: me
+
+title-block-banner: "#011627"
+format:
+  html:
+    # css: /files/html/calendar.css
+    quarto-template-params:
+      banner-header-class: "home"
+page-layout: full
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-sm-4}
+
+```{=html}
+<div class="grid" style="--bs-columns: 5; row-gap: 0;">
+  <div class="g-col-1 g-col-sm-0"></div>
+  <div class="g-col-3 g-col-sm-5">
+    <picture>
+      <source media="(min-width: 576px)" srcset="{{< meta main-photo >}}">
+      <img class="img-fluid" src="{{< meta main-photo >}}" alt="{{< meta author-meta >}}">
+    </picture>
+  </div>
+  <div class="g-col-1 g-col-sm-0"></div>
+</div>
+```
+
+<br>
+
+
+<a class="twitter-timeline" data-height="600" data-width="400"  href="https://twitter.com/toqitahamid?ref_src=twsrc%5Etfw">Tweets by toqitahamid</a>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+:::
+
+::: {.g-col-12 .g-col-sm-8}
+
+::: {.callout-important appearance="simple" icon=false}
+I am actively looking for a research assistantship position for Fall 23. If you are interested, please refer to my CV.
+:::
+
+
+Hello, my name is Toqi Tahamid Sarker. I am a co-founder of <a href="https://www.penguin.com.bd/">Penguin</a>, an e-commerce platform based in Bangladesh focusing on consumer electronics. I am passionate about utilizing deep learning techniques to address real-world challenges. I created a large-scale solar dataset with over 500,000 images to track solar events using deep learning. I ranked top 17% in <a href="https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring">The Nature Conservancy Fisheries Monitoring</a> competition at Kaggle. 
+
+I worked at <a href="http://www.panacealab.org/">Panacea Lab</a> with <a href="http://www.jmbanda.com/">Dr. Juan M. Banda</a> at Georgia State University, and published a paper in IEEE Big Data 2019.
+
+I worked with Mr. Moin Mostakim, CSE, BRAC University, in the Deep Learning field as my undergrad thesis credit.
+
+My **research interests** are:
+
+* Applied Deep Learning
+* Big Data Mining
+* Human-Centered AI
+* Recommender System
+
+Visit my [Google Scholar](https://scholar.google.com/citations?user=i1SmuwYAAAAJ&hl=en) profile to see my publications.
+
+
+## <i class="fas fa-newspaper"></i> Recent Publications
+* Sarker, Toqi Tahamid, and Juan M. Banda. 2019. “Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation.” In 2019 [*IEEE International Conference on Big Data (Big Data)*](https://bigdataieee.org/BigData2019/), 4942–49 [<i class="fas fa-link"></i>](https://doi.org/10.1109/BigData47090.2019.9006273)
+
+
+## <i class="fas fa-newspaper"></i> Education
+
+BSc in Computer Science and Engineering, 2017
+<br>
+*BRAC University, Bangladesh*
+
+
+
+
+:::
+
+:::

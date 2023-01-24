@@ -1,0 +1,51 @@
+---
+title: "Blog"
+author: ""
+# subtitle: "A few brief notes along the way"
+description-meta: "{{< meta website.description >}}"
+
+listing:
+  contents: .
+  fields: [image, date, title, reading-time, description]
+  sort: "date desc"
+  type: grid
+  categories: numbered
+  sort-ui: false
+  filter-ui: false
+  feed: 
+    categories: R
+page-layout: full
+title-block-banner: true
+toc-title: Year
+toc-location: right
+date-format: "MMMM D, YYYY"
+code-tools: false
+comments: false
+---
+
+
+
+
+<!-- ---
+title: "Blog"
+author: ""
+description-meta: "{{< meta website.description >}}"
+listing:
+  - id: posts_2023
+    contents: "2023/**/index.html"
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true
+page-layout: full
+toc-title: Year
+toc-location: right
+date-format: "MMMM D, YYYY"
+code-tools: false
+comments: false
+---
+
+## 2023
+
+:::{#posts_2023}
+:::
+ -->

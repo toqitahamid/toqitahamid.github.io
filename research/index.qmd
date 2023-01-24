@@ -1,0 +1,25 @@
+---
+title: "Research"
+description-meta: "{{< meta website.description >}}"
+listing:
+  - id: conference-papers
+    contents: "conference-papers/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+    categories: true
+
+page-layout: full
+include-back-link: false
+toc-location: right
+---
+
+My research focuses on data mining, big data, and applied deep learning. See my recent publications for more details.
+
+
+
+## Conference papers
+
+:::{#conference-papers}
+:::
+
+
