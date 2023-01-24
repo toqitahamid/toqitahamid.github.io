@@ -69,7 +69,9 @@
 } */
 
 .h3, h3 {
-    font-size: calc(1.3rem + 0.6vw);
+    font-size: 1.4rem;
+    font-weight: 500;
+    /* color: rgb(210, 105, 30) !important; */
 }
 
 h3:after {
@@ -86,7 +88,7 @@ h3:after {
 /* Setting Lines after headers */
 h3 {
     position: relative;
-    font-size: 1.4rem;
+    
 }
   
 h3 span {
