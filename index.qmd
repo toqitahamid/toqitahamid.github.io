@@ -47,41 +47,41 @@ page-layout: full
   </div>
   <div class="g-col-1 g-col-sm-0"></div>
 </div> -->
-<div class="col-sm-4">
-<img class="center-block img img-responsive img-thumbnail"
-    src="{{< meta main-photo >}}"
-    alt="Image of Toqi">
+<div id="pic-intro">
+  <img class="center-block img img-responsive img-thumbnail"
+      src="{{< meta main-photo >}}"
+      alt="Image of Toqi">
 
-<p id="title">
-  Co-founder
-  <br>
-  <span id="program">penguin.com.bd</span>
-</p>
+  <p id="title">
+    Co-founder
+    <br>
+    <span id="program">penguin.com.bd</span>
+  </p>
 
-<table class="table" id="contact-table">
-  <tbody>
-      <!-- <tr>
-          <td style="width:30px">
-              <i class="fas fa-home"></i>
-          </td>
-          <td>
-              Address Line 1
-              <br>
-              Address Line 2
-              <br>
-              Address Line 3
-          </td>
-      </tr> -->
-      <tr>
-          <td>
-              <i class="fa-solid fa-envelope"></i>
-          </td>
-          <td>
-              <a href="mailto:toqi.tahamid@gmail.com">toqi.tahamid at gmail dot com</a>
-          </td>
-      </tr>
-  </tbody>
-</table>
+  <table class="table" id="contact-table">
+    <tbody>
+        <!-- <tr>
+            <td style="width:30px">
+                <i class="fas fa-home"></i>
+            </td>
+            <td>
+                Address Line 1
+                <br>
+                Address Line 2
+                <br>
+                Address Line 3
+            </td>
+        </tr> -->
+        <tr>
+            <td>
+                <i class="fa-solid fa-envelope"></i>
+            </td>
+            <td>
+                <a href="mailto:toqi.tahamid@gmail.com">toqi.tahamid at gmail dot com</a>
+            </td>
+        </tr>
+    </tbody>
+  </table>
 </div>
 
 ```
@@ -97,10 +97,10 @@ page-layout: full
 ::: {.g-col-12 .g-col-sm-8}
 
 ::: {.callout-important appearance="simple" icon=false}
-I am actively looking for a research assistantship position for Fall 23. If you are interested, please refer to my [CV](/cv/tts-cv.pdf).
+<p style="color:#CE4446">**I am actively looking for a research assistantship position for Fall 23. If you are interested, please refer to my [CV](/cv/tts-cv.pdf)**</p>
 :::
 
-
+<div id="intro">
 Hello, my name is Toqi Tahamid Sarker. I am a co-founder of <a href="https://www.penguin.com.bd/">Penguin</a>, an e-commerce platform based in Bangladesh focusing on consumer electronics. I am passionate about utilizing deep learning techniques to address real-world challenges. I created a large-scale solar dataset with over 500,000 images to track solar events using deep learning. I ranked top 17% in <a href="https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring">The Nature Conservancy Fisheries Monitoring</a> competition at Kaggle. 
 
 I worked at <a href="http://www.panacealab.org/">Panacea Lab</a> with <a href="http://www.jmbanda.com/">Dr. Juan M. Banda</a> at Georgia State University, and published a paper in IEEE Big Data 2019.
@@ -115,7 +115,7 @@ My **research interests** are:
 * Recommender System
 
 Visit my [Google Scholar](https://scholar.google.com/citations?user=i1SmuwYAAAAJ&hl=en) profile to see my publications.
-
+</div>
 
 <!-- ## <i class="fas fa-newspaper"></i> Recent Publications
 * Sarker, Toqi Tahamid, and Juan M. Banda. 2019. “Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation.” In 2019 [*IEEE International Conference on Big Data (Big Data)*](https://bigdataieee.org/BigData2019/), 4942–49 [<i class="fas fa-link"></i>](https://doi.org/10.1109/BigData47090.2019.9006273) -->
@@ -125,7 +125,7 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=i1SmuwYAAAAJ
 <h3 class="push-down-3">
   <span><i class="fa-solid fa-book"></i> Recent Publications</span>
 </h3>
-<ul id="news">
+<ul id="publications">
   <li>
       <b>Sarker, Toqi Tahamid</b>, and Juan M. Banda. 2019. “Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation.” In 2019 <a href="https://bigdataieee.org/BigData2019/">IEEE International Conference on Big Data (Big Data)</a>, 4942–49  <a htrf="https://doi.org/10.1109/BigData47090.2019.9006273"><i class="fas fa-link"></i></a>
   </li>

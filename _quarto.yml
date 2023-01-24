@@ -3,11 +3,11 @@ ipynb-filters: [nbdev_filter]
 project:
   type: website
 
-  # preview: 
-  #   port: 5555
-  #   browser: false
-  #   watch-inputs: true
-  #   navigate: true
+  preview: 
+    port: 5555
+    browser: false
+    watch-inputs: true
+    navigate: true
 
   # render:
   #     - "*.qmd"
