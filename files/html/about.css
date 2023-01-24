@@ -3,15 +3,28 @@
     margin-top: 3rem !important;
   }
 
+/* Intro area, index.html page ------------------------------------------------- */
+#intro {
+    font-size: 0.9rem;
+  }
+
+#pic-intro{
+    font-size: 0.9rem;
+    margin-bottom: -50px;
+}
+
 /* Contact info area, index.html page ------------------------------------------------- */
 #title {
     color: #20364c;
     margin-top: 2rem;
+    font-weight: 800;
+    /* font-size: 1.4rem; */
     text-align: center;
   }
   
   #program {
     color: gray;
+    font-weight: 800;
     text-align: center;
   }
   
@@ -19,6 +32,19 @@
     padding: 3px;
     border: 1px solid lightgray;
   }
+
+
+   /* Publications area -------------------------------------------------------------------- */
+   #publications {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  #publications li {
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+  }
+  
 
 
   /* Degree area -------------------------------------------------------------------- */
@@ -29,6 +55,7 @@
   
   #education li {
     margin-bottom: 1rem;
+    font-size: 0.9rem;
   }
   
   .university {
@@ -76,3 +103,5 @@ h3:after {
     border-top: 2px solid slategray;
     z-index: -1;
 }
+
+
