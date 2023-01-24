@@ -76,10 +76,10 @@ website:
 
 
   page-footer:
-      left: |
-        <span class="faux-block">{{< fa brands creative-commons >}} {{< var years >}} Toqi Tahamid Sarker</span>    
-      right: |
+      center: 
+        <span class="faux-block">{{< fa brands creative-commons >}} {{< var years >}} Toqi Tahamid Sarker</span>
         <span class="faux-block">Made with [Quarto](https://quarto.org/)</span>
+        # right: |
     
 
 
