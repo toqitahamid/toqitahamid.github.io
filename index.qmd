@@ -51,9 +51,9 @@ page-layout: full
 <br>
 
 
-<a class="twitter-timeline" data-height="600" data-width="400"  href="https://twitter.com/toqitahamid?ref_src=twsrc%5Etfw">Tweets by toqitahamid</a>
+<!-- <a class="twitter-timeline" data-height="600" data-width="400"  href="https://twitter.com/toqitahamid?ref_src=twsrc%5Etfw">Tweets by toqitahamid</a>
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 
 :::
