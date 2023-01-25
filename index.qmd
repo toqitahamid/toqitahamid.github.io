@@ -5,28 +5,13 @@ description-meta: "{{< meta website.description >}}"
 # image: /files/profiles/toqi-tahamid-sarker-2023.png
 main-photo: /files/profiles/tts-square.jpg
 image-alt: "Portrait photo of the author with a transparent background"
-# about:
-#   # template: trestles
-#   template: solana
-#   links:
-#     - icon: github
-#       href: https://github.com/toqitahamid/
-#     - icon: twitter
-#       href: https://twitter.com/toqitahamid/
-#     - icon: linkedin
-#       href: https://www.linkedin.com/in/toqi/
-    
-    # - text: "{{< iconify simple-icons credly size=1.2em >}}"
-    #   href: https://www.credly.com/users/carl-goodwin/badges#
-    # - icon: mastodon
-    #   href: https://fosstodon.org/@cg
-      # rel: me
 
-title-block-banner: "#011627"
+# title-block-banner: "#011627"
+
 format:
   html:
     email-obfuscation: javascript
-    css: /files/html/about.css
+    css: html/about.css
     quarto-template-params:
       banner-header-class: "home"
 page-layout: full
@@ -37,17 +22,8 @@ page-layout: full
 ::: {.g-col-12 .g-col-sm-4}
 
 ```{=html}
-<!-- <div class="grid" style="--bs-columns: 5; row-gap: 0;">
-  <div class="g-col-1 g-col-sm-0"></div>
-  <div class="g-col-3 g-col-sm-5">
-    <picture>
-      <source media="(min-width: 576px)" srcset="{{< meta main-photo >}}">
-      <img class="img-fluid" src="{{< meta main-photo >}}" alt="{{< meta author-meta >}}">
-    </picture>
-  </div>
-  <div class="g-col-1 g-col-sm-0"></div>
-</div> -->
-<div id="pic-intro">
+
+<div class="pic-intro">
   <img class="center-block img img-responsive img-thumbnail"
       src="{{< meta main-photo >}}"
       alt="Image of Toqi">
@@ -72,14 +48,14 @@ page-layout: full
                 Address Line 3
             </td>
         </tr> -->
-        <!-- <tr>
+        <tr>
             <td>
                 <i class="fa-solid fa-envelope"></i>
             </td>
             <td>
                 <a href="mailto:toqi.tahamid@gmail.com">toqi.tahamid at gmail dot com</a>
             </td>
-        </tr> -->
+        </tr>
     </tbody>
   </table>
 </div>
