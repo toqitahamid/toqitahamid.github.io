@@ -33,14 +33,14 @@ website:
   title: "Toqi Tahamid Sarker"
   description: "Toqi Tahamid Sarker is an entrepreneur and interested in data science & deep learning."
   google-analytics: "G-3THLGK2G1N"
-  # favicon: "/files/favicon-512.png"
+  favicon: "/files/favicon-512.png"
   site-url: "https://toqitahamid.github.io"
   repo-url: "https://github.com/toqitahamid/toqitahamid.github.io"
   repo-actions: []
   # open-graph: true
   repo-branch: master
   sidebar: false
-  search: false
+  search: true
 
 
   twitter-card: 
@@ -55,8 +55,9 @@ website:
   
 
   navbar:
-    title: false
+    # title: true
     pinned: true
+    # logo: "/files/favicon-512.png"
 
     right:
       - text: "Home"
@@ -79,10 +80,10 @@ website:
 
 
   page-footer:
-      center: 
+      center: |
         <span class="faux-block">{{< fa brands creative-commons >}} {{< var years >}} Toqi Tahamid Sarker</span>
         <span class="faux-block">Made with [Quarto](https://quarto.org/)</span>
-        # right: |
+
     
 
 
