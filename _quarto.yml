@@ -53,11 +53,11 @@ website:
   
 
   navbar:
-    # title: false
+    title: false
     pinned: true
 
-    left:
-      - text: "About"
+    right:
+      - text: "Home"
         href: "index.qmd"
       - text: "CV"
         href: "cv/index.qmd"
@@ -65,7 +65,7 @@ website:
       #   href: "blog/index.qmd"
       - text: "Research"
         file: research/index.qmd
-    right:
+    # right:
       - icon: github
         href: "https://github.com/toqitahamid/"
       - icon: twitter

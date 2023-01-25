@@ -20,6 +20,7 @@ execute:
   warning: false
 
 include-back-link: true
+page-layout: article
 
 format:
   html:
