@@ -52,11 +52,11 @@ page-layout: full
       src="{{< meta main-photo >}}"
       alt="Image of Toqi">
 
-  <p id="title">
+  <!-- <p id="title">
     Co-founder
     <br>
     <span id="program">penguin.com.bd</span>
-  </p>
+  </p> -->
 
   <table class="table" id="contact-table">
     <tbody>
@@ -72,14 +72,14 @@ page-layout: full
                 Address Line 3
             </td>
         </tr> -->
-        <tr>
+        <!-- <tr>
             <td>
                 <i class="fa-solid fa-envelope"></i>
             </td>
             <td>
                 <a href="mailto:toqi.tahamid@gmail.com">toqi.tahamid at gmail dot com</a>
             </td>
-        </tr>
+        </tr> -->
     </tbody>
   </table>
 </div>

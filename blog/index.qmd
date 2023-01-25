@@ -1,14 +1,18 @@
 ---
-title: "Blog"
+title: "Notes from a data witch"
+subtitle: A data science blog by Toqi Tahamid Sarker
 author: ""
 # subtitle: "A few brief notes along the way"
 description-meta: "{{< meta website.description >}}"
 
 listing:
   contents: .
-  fields: [image, date, title, reading-time, description]
+  # fields: [image, date, title, reading-time, description, categories, author]
   sort: "date desc"
   type: grid
+  grid-columns: 3
+  image-height: 250px
+  page-size: 100
   categories: numbered
   sort-ui: false
   filter-ui: false
