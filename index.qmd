@@ -6,7 +6,7 @@ description-meta: "{{< meta website.description >}}"
 main-photo: /files/profiles/tts-square.jpg
 image-alt: "Portrait photo of the author with a transparent background"
 
-# title-block-banner: "#011627"
+title-block-banner: "#011627"
 
 format:
   html:

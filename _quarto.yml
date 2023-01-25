@@ -29,6 +29,7 @@ description-meta: "{{< meta description >}}"
 author-meta: "Toqi Tahamid Sarker"
 
 website:
+  
   title: "Toqi Tahamid Sarker"
   description: "Toqi Tahamid Sarker is an entrepreneur and interested in data science & deep learning."
   google-analytics: "G-3THLGK2G1N"
@@ -39,6 +40,7 @@ website:
   # open-graph: true
   repo-branch: master
   sidebar: false
+  search: false
 
 
   twitter-card: 
