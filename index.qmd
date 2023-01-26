@@ -4,7 +4,7 @@ pagetitle: "{{< meta website.title >}}"
 description-meta: "{{< meta website.description >}}"
 # image: /files/profiles/toqi-tahamid-sarker-2023.png
 main-photo: /files/profiles/tts-square.jpg
-image-alt: "Portrait photo of the author with a transparent background"
+image-alt: "Photo of the author with the great Albert Einstein"
 
 title-block-banner: "#011627"
 
@@ -79,9 +79,9 @@ page-layout: full
 <div id="intro">
 Hello, my name is Toqi Tahamid Sarker. I am a co-founder of <a href="https://www.penguin.com.bd/">Penguin</a>, an e-commerce platform based in Bangladesh focusing on consumer electronics. I am passionate about utilizing deep learning techniques to address real-world challenges. I created a large-scale solar dataset with over 500,000 images to track solar events using deep learning. I ranked top 17% in <a href="https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring">The Nature Conservancy Fisheries Monitoring</a> competition at Kaggle. 
 
-I worked at <a href="http://www.panacealab.org/">Panacea Lab</a> with <a href="http://www.jmbanda.com/">Dr. Juan M. Banda</a> at Georgia State University, and published a paper in IEEE Big Data 2019.
+I worked at <a href="http://www.panacealab.org/">Panacea Lab</a> under the supervision of Professor <a href="http://www.jmbanda.com/">Juan M. Banda</a> at Georgia State University, and published a paper in IEEE Big Data 2019.
 
-I worked with [Mr. Moin Mostakim](https://www.bracu.ac.bd/about/people/moin-mostakim) at BRAC University on a deep learning project as part of my undergraduate thesis requirement.
+I worked under the supervision of [Mr. Moin Mostakim](https://www.bracu.ac.bd/about/people/moin-mostakim) at BRAC University on a deep learning project as part of my undergraduate thesis requirement.
 
 My **research interests** are:
 
