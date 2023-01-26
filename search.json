@@ -32,7 +32,7 @@
     "href": "research/conference-papers/sarker-banda-solar-event-tracking/index.html#bibtex-citation",
     "title": "Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation",
     "section": "BibTeX citation",
-    "text": "BibTeX citation\n@INPROCEEDINGS{9006273,\n  author={Sarker, Toqi Tahamid and Banda, Juan M.},\n  booktitle={2019 IEEE International Conference on Big Data (Big Data)}, \n  title={Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation}, \n  year={2019},\n  volume={},\n  number={},\n  pages={4942-4949},\n  doi={10.1109/BigData47090.2019.9006273}}"
+    "text": "BibTeX citation\n@INPROCEEDINGS{9006273,\n  author={Sarker, Toqi Tahamid and Banda, Juan M.},\n  booktitle={2019 IEEE International Conference on Big Data (Big Data)}, \n  title={Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation}, \n  year={2019},\n  pages={4942-4949},\n  doi={10.1109/BigData47090.2019.9006273}}"
   },
   {
     "objectID": "index.html",
