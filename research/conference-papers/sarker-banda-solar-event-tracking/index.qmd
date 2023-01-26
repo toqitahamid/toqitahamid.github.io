@@ -48,7 +48,7 @@ With the advent of deep learning for computer vision tasks, the need for accurat
 
 ## Code
 
-The project used several evaluation metrics to measure the accuracy of the genearated bounding boxes, and the python implementation is [available at GitHub](https://github.com/toqitahamid/evaluation-metrics-tracking).
+The project used several evaluation metrics to measure the accuracy of the genearated bounding boxes, and the python implementation is available at [GitHub](https://github.com/toqitahamid/evaluation-metrics-tracking).
 
 ## BibTeX citation
 
@@ -58,8 +58,6 @@ The project used several evaluation metrics to measure the accuracy of the genea
   booktitle={2019 IEEE International Conference on Big Data (Big Data)}, 
   title={Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation}, 
   year={2019},
-  volume={},
-  number={},
   pages={4942-4949},
   doi={10.1109/BigData47090.2019.9006273}}
 
