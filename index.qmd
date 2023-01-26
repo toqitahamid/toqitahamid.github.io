@@ -81,7 +81,7 @@ Hello, my name is Toqi Tahamid Sarker. I am a co-founder of <a href="https://www
 
 I worked at <a href="http://www.panacealab.org/">Panacea Lab</a> with <a href="http://www.jmbanda.com/">Dr. Juan M. Banda</a> at Georgia State University, and published a paper in IEEE Big Data 2019.
 
-I worked with Mr. Moin Mostakim, CSE, BRAC University, in the Deep Learning field as my undergrad thesis credit.
+I worked with [Mr. Moin Mostakim](https://www.bracu.ac.bd/about/people/moin-mostakim) at BRAC University on a deep learning project as part of my undergraduate thesis requirement.
 
 My **research interests** are:
 
