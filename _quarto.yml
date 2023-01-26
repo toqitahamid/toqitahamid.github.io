@@ -66,9 +66,10 @@ website:
         href: "cv/index.qmd"
       # - text: "Blog"
       #   href: "blog/index.qmd"
-      - text: "Research"
+      - text: "Research "
         file: research/index.qmd
-    # right:
+      - text: "{{< ai google-scholar size=lg >}}"
+        href: "https://scholar.google.com/citations?user=i1SmuwYAAAAJ&hl=en"
       - icon: github
         href: "https://github.com/toqitahamid/"
       - icon: twitter
