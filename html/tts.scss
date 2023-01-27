@@ -46,7 +46,23 @@ $dark:      $black !default;
 // Fonts
 
 
-$font-family-sans-serif: "Libre Franklin" !default;
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
+
+
+
+$font-family-sans-serif: "Mulish" !default;
+
+// $headings-font-family: "Didact Gothic" !default;
+// $headings-font-weight: 400 !default;
+
+// $navbar-font-family: "Didact Gothic" !default;
+// $toc-font-family: "Didact Gothic" !default;
+// $footer-font-family: "Didact Gothic" !default;
+
+
+
+// $font-family-sans-serif: "Libre Franklin" !default;
 
 $headings-font-family: "Jost" !default;
 $headings-font-weight: 600 !default;

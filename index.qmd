@@ -116,7 +116,8 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=i1SmuwYAAAAJ
         <li>
             BSc in Computer Science and Engineering, 2017
             <br>
-            <span class="university"><em>BRAC University, Bangladesh</em></span>
+            <!-- <span class="university"><em>BRAC University, Bangladesh</em></span> -->
+            <span class="university">BRAC University, Bangladesh</span>
         </li>
     </ul>
 ```
