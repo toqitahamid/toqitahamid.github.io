@@ -103,9 +103,10 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=i1SmuwYAAAAJ
 </h3>
 <ul id="publications">
   <li>
-      <b>Sarker, Toqi Tahamid</b>, and Juan M. Banda. 2019. “Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation.” In 2019 <a href="https://bigdataieee.org/BigData2019/">IEEE International Conference on Big Data (Big Data)</a>, 4942–49  <a htrf="https://doi.org/10.1109/BigData47090.2019.9006273"><i class="fas fa-link"></i></a>
+      <b>Sarker, Toqi Tahamid</b>, and Juan M. Banda. 2019. “Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation.” In 2019 <a href="https://bigdataieee.org/BigData2019/">IEEE International Conference on Big Data (Big Data)</a>, 4942–49  <a href="https://doi.org/10.1109/BigData47090.2019.9006273"><i class="fas fa-link"></i></a>
   </li>
 </ul>
+
 
 
 <h3 class="push-down-3">
