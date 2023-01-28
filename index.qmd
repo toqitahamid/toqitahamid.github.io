@@ -74,6 +74,7 @@ page-layout: full
 
 ::: {.callout-important appearance="simple" icon=false}
 <p style="color:#CE4446">**I am actively looking for a research assistantship position for Fall 23. If you are interested, please refer to my [CV](/cv/tts-cv.pdf)**</p>
+
 :::
 
 <div id="intro">
@@ -93,8 +94,6 @@ My **research interests** are:
 Visit my [Google Scholar](https://scholar.google.com/citations?user=i1SmuwYAAAAJ&hl=en) profile to see my publications.
 </div>
 
-<!-- ## <i class="fas fa-newspaper"></i> Recent Publications
-* Sarker, Toqi Tahamid, and Juan M. Banda. 2019. “Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation.” In 2019 [*IEEE International Conference on Big Data (Big Data)*](https://bigdataieee.org/BigData2019/), 4942–49 [<i class="fas fa-link"></i>](https://doi.org/10.1109/BigData47090.2019.9006273) -->
 
 
 ```{=html}
