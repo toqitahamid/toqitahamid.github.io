@@ -56,7 +56,7 @@ website:
 
   navbar:
     # title: true
-    pinned: true
+    # pinned: true
     # logo: "/files/favicon-512.png"
 
     right:
