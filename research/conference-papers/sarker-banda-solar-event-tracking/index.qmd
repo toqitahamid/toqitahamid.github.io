@@ -26,14 +26,14 @@ pub-info:
     - name: Final version
       url: https://doi.org/10.1109/BigData47090.2019.9006273
       icon: fa-solid fa-scroll
-    # - name: Code
-    #   url: https://github.com/andrewheiss/who-cares-about-crackdown
-    #   icon: fa-brands fa-github
+    - name: Code
+      url: https://github.com/toqitahamid/solar-event-tracking
+      icon: fa-brands fa-github
     # - name: Data
     #   url: "#data-and-code"
     #   icon: fa-solid fa-table
-  # extra: >-
-  #   Presented at a workshop for a special issue of *Global Policy* entitled “Restricting NGOs: From Pushback to Accommodation,” University of Amsterdam, The Netherlands, June 2020 (held online due to COVID-19)
+  extra: >-
+    Presented at SABID 2019 workshop in the IEEE Big Data 2019, Los Angeles, CA, USA, December 2019.
 doi: 10.1111/1758-5899.12984
 # haiku:
 #   - Deep regression networks track solar phenomena to generate continuously labeled solar image data,
@@ -47,8 +47,10 @@ With the advent of deep learning for computer vision tasks, the need for accurat
 
 
 ## Code
+Python implementation is available at [GitHub](https://github.com/toqitahamid/solar-event-tracking).
 
-The project used several evaluation metrics to measure the accuracy of the genearated bounding boxes, and the python implementation is available at [GitHub](https://github.com/toqitahamid/evaluation-metrics-tracking).
+
+<!-- The project used several evaluation metrics to measure the accuracy of the genearated bounding boxes, and the python implementation is available at [GitHub](https://github.com/toqitahamid/solar-event-tracking). -->
 
 ## BibTeX citation
 
