@@ -70,6 +70,8 @@ website:
         file: research/index.qmd
       - text: "{{< ai google-scholar size=lg >}}"
         href: "https://scholar.google.com/citations?user=i1SmuwYAAAAJ&hl=en"
+      # - text: "{{< ai semantic-scholar size=lg >}}"
+      #   href: "https://scholar.google.com/citations?user=i1SmuwYAAAAJ&hl=en"
       - icon: github
         href: "https://github.com/toqitahamid/"
       - icon: twitter
