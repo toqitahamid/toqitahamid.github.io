@@ -72,10 +72,10 @@ page-layout: full
 
 ::: {.g-col-12 .g-col-sm-8}
 
-::: {.callout-important appearance="simple" icon=false}
+<!-- ::: {.callout-important appearance="simple" icon=false}
 <p style="color:#CE4446">**I am actively looking for a research assistantship position for Fall 23. If you are interested, please refer to my [CV](/cv/tts-cv.pdf)**</p>
 
-:::
+::: -->
 
 <div id="intro">
 Hello, my name is Toqi Tahamid Sarker. I am a co-founder of <a href="https://www.penguin.com.bd/">Penguin</a>, an e-commerce platform based in Bangladesh focusing on consumer electronics. I am passionate about utilizing deep learning techniques to address real-world challenges. I created a large-scale solar dataset with over 500,000 images to track solar events using deep learning. I ranked top 17% in <a href="https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring">The Nature Conservancy Fisheries Monitoring</a> competition at Kaggle. 
