@@ -34,7 +34,7 @@ page-layout: full
 </p> -->
   
 
-<table id="contact-table" >
+<!-- <table id="contact-table" > -->
   <!-- <tbody> -->
       <!-- <tr>
           <td style="width:30px">
@@ -48,7 +48,7 @@ page-layout: full
               Address Line 3
           </td>
       </tr> -->
-      <tr>
+      <!-- <tr>
           <td>
             <b>Email:</b>
             <i class="fas fa-envelope" data-qmd=""></i>
@@ -56,12 +56,20 @@ page-layout: full
           <td style="text-align:right">
             <a href="mailto:toqi.tahamid@gmail.com">toqi.tahamid at gmail dot com</a>
           </td>
-      </tr>
+      </tr> -->
   <!-- </tbody> -->
-</table>
+<!-- </table> -->
 
 </div>
 ```
+
+
+
+<div style="padding-top:60px">
+  |  
+-|---:
+ <i class="fas fa-envelope" data-qmd=""></i>| <a href="mailto:toqi.tahamid@gmail.com">toqi.tahamid at gmail dot com</a>   
+</div>
 
 
 <!-- <a class="twitter-timeline" data-height="600" data-width="400"  href="https://twitter.com/toqitahamid?ref_src=twsrc%5Etfw">Tweets by toqitahamid</a>
