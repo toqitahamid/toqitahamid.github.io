@@ -22,45 +22,45 @@ page-layout: full
 ::: {.g-col-12 .g-col-sm-4}
 
 ```{=html}
-
 <div class="pic-intro">
   <img class="center-block img img-responsive img-thumbnail"
       src="{{< meta main-photo >}}"
       alt="Image of Toqi">
 
-  <!-- <p id="title">
-    Co-founder
-    <br>
-    <span id="program">penguin.com.bd</span>
-  </p> -->
+<!-- <p id="title">
+  Co-founder
+  <br>
+  <span id="program">penguin.com.bd</span>
+</p> -->
+  
 
-  <table class="contact-table" id="contact-table">
-    <tbody>
-        <!-- <tr>
-            <td style="width:30px">
-                <i class="fas fa-home"></i>
-            </td>
-            <td>
-                Address Line 1
-                <br>
-                Address Line 2
-                <br>
-                Address Line 3
-            </td>
-        </tr> -->
-        <tr>
-            <td>
-                <!-- <i class="fa-solid fa-envelope"></i> -->
-                <i class="fa-solid fa-book"></i>
-            </td>
-            <td>
-                <a href="mailto:toqi.tahamid@gmail.com">toqi.tahamid at gmail dot com</a>
-            </td>
-        </tr>
-    </tbody>
-  </table>
+<table id="contact-table" >
+  <!-- <tbody> -->
+      <!-- <tr>
+          <td style="width:30px">
+              <i class="fas fa-home"></i>
+          </td>
+          <td>
+              Address Line 1
+              <br>
+              Address Line 2
+              <br>
+              Address Line 3
+          </td>
+      </tr> -->
+      <tr>
+          <td>
+            <b>Email:</b>
+            <i class="fas fa-envelope" data-qmd=""></i>
+          </td>
+          <td style="text-align:right">
+            <a href="mailto:toqi.tahamid@gmail.com">toqi.tahamid at gmail dot com</a>
+          </td>
+      </tr>
+  <!-- </tbody> -->
+</table>
+
 </div>
-
 ```
 
 
@@ -110,8 +110,8 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=i1SmuwYAAAAJ
 
 
 <h3 class="push-down-3">
-        <span><i class="fa-solid fa-graduation-cap"></i> Education</span>
-    </h3>
+  <span><i class="fa-solid fa-graduation-cap"></i> Education</span>
+</h3>
     <ul id="education">
         
         <li>
