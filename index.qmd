@@ -54,7 +54,7 @@ page-layout: full
             <i class="fas fa-envelope" data-qmd=""></i>
           </td>
           <td style="text-align:right">
-            <a href="mailto:toqi.tahamid@gmail.com">toqi.tahamid at gmail dot com</a>
+            dot com
           </td>
       </tr> -->
   <!-- </tbody> -->
@@ -64,11 +64,10 @@ page-layout: full
 ```
 
 
-
 <div style="padding-top:60px">
   |  
 -|---:
- <i class="fas fa-envelope" data-qmd=""></i>| <a href="mailto:toqi.tahamid@gmail.com">toqi.tahamid at gmail dot com</a>   
+ <i class="fas fa-envelope" data-qmd=""></i>| toqitahamid.sarker at siu dot edu   
 </div>
 
 
@@ -87,18 +86,21 @@ page-layout: full
 ::: -->
 
 <div class="intro" id="intro">
-Hello, my name is Toqi Tahamid Sarker. I am a co-founder of <a href="https://www.penguin.com.bd/">Penguin</a>, an e-commerce platform based in Bangladesh focusing on consumer electronics. I am passionate about utilizing deep learning techniques to address real-world challenges. I created a large-scale solar dataset with over 500,000 images to track solar events using deep learning. I ranked top 17% in <a href="https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring">The Nature Conservancy Fisheries Monitoring</a> competition at Kaggle. 
+Hello, my name is Toqi Tahamid Sarker. I am currently working as a Research Assistant at Southern Illinois University, Carbondale, USA, pursuing a PhD in Computer Science under the guidance of <a href="https://www2.cs.siu.edu/~kahmed/">Dr. Khaled Ahmed</a>. I am a member of BASE, a research lab focusing on Big Data and Software Engineering at Southern Illinois University, Carbondale.
 
-I worked at <a href="http://www.panacealab.org/">Panacea Lab</a> under the supervision of Professor <a href="http://www.jmbanda.com/">Juan M. Banda</a> at Georgia State University, and published a paper in IEEE Big Data 2019.
+Prior to this, I worked as a research assistant at <a href="http://www.panacealab.org/">Panacea Lab</a> under the supervision of <a href="http://www.jmbanda.com/">Dr. Juan M. Banda</a> at Georgia State University, and published a paper in IEEE Big Data 2019.
 
-I worked under the supervision of [Mr. Moin Mostakim](https://www.bracu.ac.bd/about/people/moin-mostakim) at BRAC University on a deep learning project as part of my undergraduate thesis requirement.
+I have a strong passion for applying deep learning techniques to address real-world challenges. I created a large-scale solar dataset with over 500,000 images to track solar events using deep learning. Furthermore, I achieved a top 17% ranking in <a href="https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring">The Nature Conservancy Fisheries Monitoring</a> competition at Kaggle.
+
+I also worked under the supervision of [Mr. Moin Mostakim](https://www.bracu.ac.bd/about/people/moin-mostakim) at BRAC University on a deep learning project as part of my undergraduate thesis requirement.
 
 My **research interests** are:
 
+* Object Detection/Tracking
+* Computer Vision
 * Applied Deep Learning
 * Big Data Mining
-* Human-Centered AI
-* Recommender System
+
 
 Visit my [Google Scholar](https://scholar.google.com/citations?user=i1SmuwYAAAAJ&hl=en) profile to see my publications.
 </div>
@@ -121,9 +123,16 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=i1SmuwYAAAAJ
   <span><i class="fa-solid fa-graduation-cap"></i> Education</span>
 </h3>
     <ul id="education">
+
+      <li>
+            PhD in Computer Science, Fall 23 - Present
+            <br>
+            <!-- <span class="university"><em>BRAC University, Bangladesh</em></span> -->
+            <span class="university">Southern Illinois University, Carbondale, USA</span>
+        </li>
         
         <li>
-            BSc in Computer Science and Engineering, 2017
+            BSc in Computer Science and Engineering, Fall 2012 - Fall 2016
             <br>
             <!-- <span class="university"><em>BRAC University, Bangladesh</em></span> -->
             <span class="university">BRAC University, Bangladesh</span>
@@ -134,5 +143,7 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=i1SmuwYAAAAJ
 :::
 
 :::
+
+
 
 
