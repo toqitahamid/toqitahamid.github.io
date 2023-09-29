@@ -1,12 +1,12 @@
 [
   {
-    "listing": "/blog/index.html",
-    "items": []
-  },
-  {
     "listing": "/research/index.html",
     "items": [
       "/research/conference-papers/sarker-banda-solar-event-tracking/index.html"
     ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": []
   }
 ]

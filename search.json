@@ -1,38 +1,10 @@
 [
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Notes from a data witch",
-    "section": "",
-    "text": "No matching items"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hello there!",
     "section": "",
-    "text": "toqi.tahamid at gmail dot com\n\n\n\n\n\n\n\n\n\nHello, my name is Toqi Tahamid Sarker. I am a co-founder of Penguin, an e-commerce platform based in Bangladesh focusing on consumer electronics. I am passionate about utilizing deep learning techniques to address real-world challenges. I created a large-scale solar dataset with over 500,000 images to track solar events using deep learning. I ranked top 17% in The Nature Conservancy Fisheries Monitoring competition at Kaggle.\nI worked at Panacea Lab under the supervision of Professor Juan M. Banda at Georgia State University, and published a paper in IEEE Big Data 2019.\nI worked under the supervision of Mr. Moin Mostakim at BRAC University on a deep learning project as part of my undergraduate thesis requirement.\nMy research interests are:\n\nApplied Deep Learning\nBig Data Mining\nHuman-Centered AI\nRecommender System\n\nVisit my Google Scholar profile to see my publications.\n\n\n   Recent Publications\n\n\n  \n      Sarker, Toqi Tahamid, and Juan M. Banda. 2019. “Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation.” In 2019 IEEE International Conference on Big Data (Big Data), 4942–49  \n  \n\n\n\n\n\n   Education\n\n    \n        \n        \n            BSc in Computer Science and Engineering, 2017\n            \n            \n            BRAC University, Bangladesh"
-  },
-  {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum vitæ",
-    "section": "",
-    "text": "Download current CV"
-  },
-  {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
-    "section": "",
-    "text": "My research focuses on data mining, big data, and applied deep learning. See my recent publications for more details."
-  },
-  {
-    "objectID": "research/index.html#conference-papers",
-    "href": "research/index.html#conference-papers",
-    "title": "Research",
-    "section": "Conference papers",
-    "text": "Conference papers\n\n\n\n        \n            \n                Toqi Tahamid Sarker, and Juan M. Banda, “Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation,” 2019 IEEE International Conference on Big Data (Big Data), 4942–49, 2019, doi: 10.1109/BigData47090.2019.9006273\n            \n            \n                    \n                            Big Data\n                        \n                    \n                            Solar Data Mining\n                        \n                    \n                            Deep Learning\n                        \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                             Preprint\n                        \n                    \n                    \n                        \n                             Final version\n                        \n                    \n                    \n                        \n                             Code\n                        \n                    \n                \n            \n        \n\n\n\nNo matching items"
+    "text": "toqitahamid.sarker at siu dot edu\n\n\n\n\n\n\n\n\n\nHello, my name is Toqi Tahamid Sarker. I am currently working as a Research Assistant at Southern Illinois University, Carbondale, USA, pursuing a PhD in Computer Science under the guidance of Dr. Khaled Ahmed. I am a member of BASE, a research lab focusing on Big Data and Software Engineering at Southern Illinois University, Carbondale.\nPrior to this, I worked as a research assistant at Panacea Lab under the supervision of Dr. Juan M. Banda at Georgia State University, and published a paper in IEEE Big Data 2019.\nI have a strong passion for applying deep learning techniques to address real-world challenges. I created a large-scale solar dataset with over 500,000 images to track solar events using deep learning. Furthermore, I achieved a top 17% ranking in The Nature Conservancy Fisheries Monitoring competition at Kaggle.\nI also worked under the supervision of Mr. Moin Mostakim at BRAC University on a deep learning project as part of my undergraduate thesis requirement.\nMy research interests are:\n\nObject Detection/Tracking\nComputer Vision\nApplied Deep Learning\nBig Data Mining\n\nVisit my Google Scholar profile to see my publications.\n\n\n   Recent Publications\n\n\n  \n      Sarker, Toqi Tahamid, and Juan M. Banda. 2019. “Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation.” In 2019 IEEE International Conference on Big Data (Big Data), 4942–49  \n  \n\n\n\n\n\n   Education\n\n    \n\n      \n            PhD in Computer Science, Fall 23 - Present\n            \n            \n            Southern Illinois University, Carbondale, USA\n        \n        \n        \n            BSc in Computer Science and Engineering, Fall 2012 - Fall 2016\n            \n            \n            BRAC University, Bangladesh"
   },
   {
     "objectID": "research/conference-papers/sarker-banda-solar-event-tracking/index.html",
@@ -61,5 +33,33 @@
     "title": "Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation",
     "section": "BibTeX citation",
     "text": "BibTeX citation\n@INPROCEEDINGS{9006273,\n  author={Sarker, Toqi Tahamid and Banda, Juan M.},\n  booktitle={2019 IEEE International Conference on Big Data (Big Data)}, \n  title={Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation}, \n  year={2019},\n  pages={4942-4949},\n  doi={10.1109/BigData47090.2019.9006273}}"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitæ",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on data mining, big data, and applied deep learning. See my recent publications for more details."
+  },
+  {
+    "objectID": "research/index.html#conference-papers",
+    "href": "research/index.html#conference-papers",
+    "title": "Research",
+    "section": "Conference papers",
+    "text": "Conference papers\n\n\n\n        \n            \n                Toqi Tahamid Sarker, and Juan M. Banda, “Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation,” 2019 IEEE International Conference on Big Data (Big Data), 4942–49, 2019, doi: 10.1109/BigData47090.2019.9006273\n            \n            \n                    \n                            Big Data\n                        \n                    \n                            Solar Data Mining\n                        \n                    \n                            Deep Learning\n                        \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                             Preprint\n                        \n                    \n                    \n                        \n                             Final version\n                        \n                    \n                    \n                        \n                             Code\n                        \n                    \n                \n            \n        \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Notes from a data witch",
+    "section": "",
+    "text": "No matching items"
   }
 ]
