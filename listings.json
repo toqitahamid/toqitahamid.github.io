@@ -2,11 +2,8 @@
   {
     "listing": "/research/index.html",
     "items": [
+      "/research/conference-papers/cannabis-seed-variant-detection/index.html",
       "/research/conference-papers/sarker-banda-solar-event-tracking/index.html"
     ]
-  },
-  {
-    "listing": "/blog/index.html",
-    "items": []
   }
 ]

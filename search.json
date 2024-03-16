@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hello there!",
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitæ",
     "section": "",
-    "text": "toqitahamid.sarker at siu dot edu\n\n\n\n\n\n\n\n\n\nHello, my name is Toqi Tahamid Sarker. I am currently working as a Research Assistant at Southern Illinois University, Carbondale, USA, pursuing a PhD in Computer Science under the guidance of Dr. Khaled Ahmed. I am a member of BASE, a research lab focusing on Big Data and Software Engineering at Southern Illinois University, Carbondale.\nPrior to this, I worked as a research assistant at Panacea Lab under the supervision of Dr. Juan M. Banda at Georgia State University, and published a paper in IEEE Big Data 2019.\nI have a strong passion for applying deep learning techniques to address real-world challenges. I created a large-scale solar dataset with over 500,000 images to track solar events using deep learning. Furthermore, I achieved a top 17% ranking in The Nature Conservancy Fisheries Monitoring competition at Kaggle.\nI also worked under the supervision of Mr. Moin Mostakim at BRAC University on a deep learning project as part of my undergraduate thesis requirement.\nMy research interests are:\n\nObject Detection/Tracking\nComputer Vision\nApplied Deep Learning\nBig Data Mining\n\nVisit my Google Scholar profile to see my publications.\n\n\n   Recent Publications\n\n\n  \n      Sarker, Toqi Tahamid, and Juan M. Banda. 2019. “Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation.” In 2019 IEEE International Conference on Big Data (Big Data), 4942–49  \n  \n\n\n\n\n\n   Education\n\n    \n\n      \n            PhD in Computer Science, Fall 23 - Present\n            \n            \n            Southern Illinois University, Carbondale, USA\n        \n        \n        \n            BSc in Computer Science and Engineering, Fall 2012 - Fall 2016\n            \n            \n            BRAC University, Bangladesh"
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "research/conference-papers/cannabis-seed-variant-detection/index.html",
+    "href": "research/conference-papers/cannabis-seed-variant-detection/index.html",
+    "title": "Cannabis Seed Variant Detection using Faster R-CNN",
+    "section": "",
+    "text": "Analyzing and detecting cannabis seed variants is crucial for the agriculture industry. It enables precision breeding, allowing cultivators to selectively enhance desirable traits. Accurate identification of seed variants also ensures regulatory compliance, facilitating the cultivation of specific cannabis strains with defined characteristics, ultimately improving agricultural productivity and meeting diverse market demands. This paper presents a study on cannabis seed variant detection by employing a state-of-the-art object detection model Faster R-CNN. This study implemented the model on a locally sourced cannabis seed dataset in Thailand, comprising 17 distinct classes. We evaluate six Faster R-CNN models by comparing performance on various metrics and achieving a mAP score of 94.08% and an F1 score of 95.66%. This paper presents the first known application of deep neural network object detection models to the novel task of visually identifying cannabis seed types."
+  },
+  {
+    "objectID": "research/conference-papers/cannabis-seed-variant-detection/index.html#abstract",
+    "href": "research/conference-papers/cannabis-seed-variant-detection/index.html#abstract",
+    "title": "Cannabis Seed Variant Detection using Faster R-CNN",
+    "section": "",
+    "text": "Analyzing and detecting cannabis seed variants is crucial for the agriculture industry. It enables precision breeding, allowing cultivators to selectively enhance desirable traits. Accurate identification of seed variants also ensures regulatory compliance, facilitating the cultivation of specific cannabis strains with defined characteristics, ultimately improving agricultural productivity and meeting diverse market demands. This paper presents a study on cannabis seed variant detection by employing a state-of-the-art object detection model Faster R-CNN. This study implemented the model on a locally sourced cannabis seed dataset in Thailand, comprising 17 distinct classes. We evaluate six Faster R-CNN models by comparing performance on various metrics and achieving a mAP score of 94.08% and an F1 score of 95.66%. This paper presents the first known application of deep neural network object detection models to the novel task of visually identifying cannabis seed types."
   },
   {
     "objectID": "research/conference-papers/sarker-banda-solar-event-tracking/index.html",
@@ -35,13 +49,6 @@
     "text": "BibTeX citation\n@INPROCEEDINGS{9006273,\n  author={Sarker, Toqi Tahamid and Banda, Juan M.},\n  booktitle={2019 IEEE International Conference on Big Data (Big Data)}, \n  title={Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation}, \n  year={2019},\n  pages={4942-4949},\n  doi={10.1109/BigData47090.2019.9006273}}"
   },
   {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum vitæ",
-    "section": "",
-    "text": "Download current CV"
-  },
-  {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Research",
@@ -53,13 +60,13 @@
     "href": "research/index.html#conference-papers",
     "title": "Research",
     "section": "Conference papers",
-    "text": "Conference papers\n\n\n\n        \n            \n                Toqi Tahamid Sarker, and Juan M. Banda, “Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation,” 2019 IEEE International Conference on Big Data (Big Data), 4942–49, 2019, doi: 10.1109/BigData47090.2019.9006273\n            \n            \n                    \n                            Big Data\n                        \n                    \n                            Solar Data Mining\n                        \n                    \n                            Deep Learning\n                        \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                             Preprint\n                        \n                    \n                    \n                        \n                             Final version\n                        \n                    \n                    \n                        \n                             Code\n                        \n                    \n                \n            \n        \n\n\n\nNo matching items"
+    "text": "Conference papers\n\n\n\n    \n        \n            \n                Toqi Tahamid Sarker, Taminul Islam and Khaled R Ahmed, “Cannabis Seed Variant Detection using Faster R-CNN,” 2024 IEEE International Conference on Advanced Computing and Communication Systems\n            \n            \n            \n                \n                    \n                            Object Detection\n                        \n                    \n                    \n                            Agriculture\n                        \n                    \n                    \n                            Deep Learning\n                        \n                    \n            \n            \n            \n            \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                \n            \n        \n        \n        \n            \n                Toqi Tahamid Sarker, and Juan M. Banda, “Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation,” 2019 IEEE International Conference on Big Data (Big Data), 4942–49, 2019, doi: 10.1109/BigData47090.2019.9006273\n            \n            \n            \n                \n                    \n                            Big Data\n                        \n                    \n                    \n                            Solar Data Mining\n                        \n                    \n                    \n                            Deep Learning\n                        \n                    \n            \n            \n            \n            \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Preprint\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Code\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n\n\n\nNo matching items"
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Notes from a data witch",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello there!",
     "section": "",
-    "text": "No matching items"
+    "text": "toqitahamid.sarker at siu dot edu\n\n\n\n\n\n\n\n\n\nHello, my name is Toqi Tahamid Sarker. I am currently working as a Research Assistant at Southern Illinois University, Carbondale, USA, pursuing a PhD in Computer Science under the guidance of Dr. Khaled Ahmed. I am a member of BASE, a research lab focusing on Big Data and Software Engineering at Southern Illinois University, Carbondale.\nPrior to this, I worked as a research assistant at Panacea Lab under the supervision of Dr. Juan M. Banda at Georgia State University, and published a paper in IEEE Big Data 2019.\nI have a strong passion for applying deep learning techniques to address real-world challenges. I created a large-scale solar dataset with over 500,000 images to track solar events using deep learning. Furthermore, I achieved a top 17% ranking in The Nature Conservancy Fisheries Monitoring competition at Kaggle.\nI also worked under the supervision of Mr. Moin Mostakim at BRAC University on a deep learning project as part of my undergraduate thesis requirement.\nMy research interests are:\n\nObject Detection/Tracking\nComputer Vision\nApplied Deep Learning\nBig Data Mining\n\nVisit my Google Scholar profile to see my publications.\n\n\n   Recent Publications\n\n\n  \n      Sarker, Toqi Tahamid, Taminul Islam and Khaled R Ahmed. 2024. “Cannabis Seed Variant Detection using Faster R-CNN.” In 2024 IEEE International Conference on Advanced Computing and Communication Systems\n  \n  \n      Sarker, Toqi Tahamid, and Juan M. Banda. 2019. “Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation.” In 2024 IEEE International Conference on Big Data (Big Data), 4942–49  \n  \n\n\n\n\n\n   Education\n\n    \n\n      \n            PhD in Computer Science, Fall 23 - Present\n            \n            \n            Southern Illinois University, Carbondale, USA\n        \n        \n        \n            BSc in Computer Science and Engineering, Fall 2012 - Fall 2016\n            \n            \n            BRAC University, Bangladesh"
   }
 ]
