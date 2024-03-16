@@ -1,7 +1,7 @@
 ---
 title: "Hello there!"
-pagetitle: "{{< meta website.title >}}"
-description-meta: "{{< meta website.description >}}"
+pagetitle: "Toqi Tahamid Sarker"
+# description-meta: "{{< meta website.description >}}"
 # image: /files/profiles/toqi-tahamid-sarker-2023.png
 main-photo: /files/profiles/tts-square.jpg
 image-alt: "Photo of the author with the great Albert Einstein"
@@ -146,7 +146,3 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=i1SmuwYAAAAJ
 :::
 
 :::
-
-
-
-

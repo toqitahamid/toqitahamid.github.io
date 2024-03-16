@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description-meta: "{{< meta website.description >}}"
+# description-meta: "{{< meta website.description >}}"
 listing:
   - id: conference-papers
     contents: "conference-papers/*/index.qmd"

@@ -3,7 +3,7 @@ title: "Solar Event Tracking with Deep Regression Networks: A Proof of Concept E
 date: 2019-12-09
 author:
   - name: Toqi Tahamid Sarker
-    url: https://www.toqitahamid.com/
+    url: https://toqitahamid.github.io/
     orcid: 0000-0003-2482-8059
     affiliation: Department of Computer Science, Georgia State University
   - name: Juan M. Banda
@@ -16,7 +16,7 @@ categories:
   - Deep Learning
 pub-info:
   reference: >-
-    <a href="https://toqitahamid.github.io/">Toqi Tahamid Sarker</a>, and <a href="https://www.jmbanda.com/">Juan M. Banda</a>, “Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation,” <em>2019 IEEE International Conference on Big Data (Big Data)</em>, 4942–49, 2019, doi: <a href="https://doi.org/10.1109/BigData47090.2019.9006273"><code>10.1109/BigData47090.2019.9006273</code></a>
+    Toqi Tahamid Sarker, and <a href="https://www.jmbanda.com/">Juan M. Banda</a>, “Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation,” <em>2019 IEEE International Conference on Big Data (Big Data)</em>, 4942–49, 2019, doi: <a href="https://doi.org/10.1109/BigData47090.2019.9006273"><code>10.1109/BigData47090.2019.9006273</code></a>
   
   links:
     - name: Preprint

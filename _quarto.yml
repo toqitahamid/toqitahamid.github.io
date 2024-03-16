@@ -24,12 +24,14 @@ bibliography: files/bib/references.bib
 csl: files/bib/chicago-author-date.csl
 
 # Metadata stuff
-pagetitle: "{{< meta title >}} | {{< meta website.title >}}"
-description-meta: "{{< meta description >}}"
+
+
+
+pagetitle: "{{< meta title >}} | Toqi Tahamid Sarker"
+# description-meta: "{{< meta description >}}"
 author-meta: "Toqi Tahamid Sarker"
 
 website:
-  
   title: "**Toqi** Tahamid Sarker"
   description: "Toqi Tahamid Sarker is interested in data science & deep learning."
   google-analytics: "G-3THLGK2G1N"
@@ -66,7 +68,7 @@ website:
         href: "cv/index.qmd"
       # - text: "Blog"
       #   href: "blog/index.qmd"
-      - text: "Research "
+      - text: "Research"
         file: research/index.qmd
       - text: "{{< ai google-scholar size=lg >}}"
         href: "https://scholar.google.com/citations?user=i1SmuwYAAAAJ&hl=en"

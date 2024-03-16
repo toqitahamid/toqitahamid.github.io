@@ -1,6 +1,6 @@
 ---
 title: Curriculum vitæ
-description-meta: "{{< meta website.description >}}"
+# description-meta: "{{< meta website.description >}}"
 date: 2023-01-24
 # title-block-banner: "#771C6D"
 title-block-banner: "#011627"
