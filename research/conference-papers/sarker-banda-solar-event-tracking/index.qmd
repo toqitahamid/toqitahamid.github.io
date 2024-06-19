@@ -5,11 +5,11 @@ author:
   - name: Toqi Tahamid Sarker
     url: https://toqitahamid.github.io/
     orcid: 0000-0003-2482-8059
-    affiliation: Department of Computer Science, Georgia State University
-  - name: Juan M. Banda
-    url: https://www.jmbanda.com/
-    orcid: 0000-0001-8499-824X
-    affiliation: Department of Computer Science, Georgia State University
+    affiliation: School of Computing, Southern Illinois University
+  - name: Khaled R. Ahmed
+    url: https://www2.cs.siu.edu/~kahmed/
+    # orcid: 
+    affiliation: School of Computing, Southern Illinois University
 categories:
   - Big Data
   - Solar Data Mining

@@ -3,8 +3,8 @@ title: "Hello there!"
 pagetitle: "Toqi Tahamid Sarker"
 # description-meta: "{{< meta website.description >}}"
 # image: /files/profiles/toqi-tahamid-sarker-2023.png
-main-photo: /files/profiles/tts-square.jpg
-image-alt: "Photo of the author with the great Albert Einstein"
+main-photo: /files/profiles/tts-square.jpeg
+image-alt: "Photo of the author"
 
 title-block-banner: "#011627"
 
@@ -86,21 +86,31 @@ page-layout: full
 ::: -->
 
 <div class="intro" id="intro">
+
+Hello, I'm Toqi Tahamid Sarker, a first-year PhD student in Computer Science at Southern Illinois University, Carbondale, USA, seeking internship opportunities. Under the guidance of Dr. Khaled Ahmed, I apply deep learning techniques to address challenges in agriculture, focusing on semantic segmentation, object detection/tracking, and computer vision.
+
+My notable research includes developing Gasformer, a semantic segmentation architecture for accurately segmenting methane gas emissions from livestock, published in the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops. This work has significant implications for monitoring and mitigating greenhouse gas emissions in the livestock industry.
+
+I have also demonstrated my ability to handle large datasets and develop effective deep learning solutions through my research on solar event tracking using deep learning, published in the IEEE International Conference on Big Data.
+
+I am actively seeking internships as a machine learning or deep learning engineer, where I can contribute to cutting-edge research and development projects that solve computer vision problems. I am eager to apply my expertise in semantic segmentation, object detection/tracking, and computer vision to real-world challenges and gain hands-on experience in the industry.
+
+<!-- 
 Hello, my name is Toqi Tahamid Sarker. I am currently working as a Research Assistant at Southern Illinois University, Carbondale, USA, pursuing a PhD in Computer Science under the guidance of <a href="https://www2.cs.siu.edu/~kahmed/">Dr. Khaled Ahmed</a>. I am a member of BASE, a research lab focusing on Big Data and Software Engineering at Southern Illinois University, Carbondale.
 
 Prior to this, I worked as a research assistant at <a href="http://www.panacealab.org/">Panacea Lab</a> under the supervision of <a href="http://www.jmbanda.com/">Dr. Juan M. Banda</a> at Georgia State University, and published a paper in IEEE Big Data 2019.
 
 I have a strong passion for applying deep learning techniques to address real-world challenges. I created a large-scale solar dataset with over 500,000 images to track solar events using deep learning. Furthermore, I achieved a top 17% ranking in <a href="https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring">The Nature Conservancy Fisheries Monitoring</a> competition at Kaggle.
 
-I also worked under the supervision of [Mr. Moin Mostakim](https://www.bracu.ac.bd/about/people/moin-mostakim) at BRAC University on a deep learning project as part of my undergraduate thesis requirement.
+I also worked under the supervision of [Mr. Moin Mostakim](https://www.bracu.ac.bd/about/people/moin-mostakim) at BRAC University on a deep learning project as part of my undergraduate thesis requirement. -->
 
-My **research interests** are:
+<!-- My **research interests** are:
 
 
 * Semantic Segmentation
 * Object Detection/Tracking
 * Computer Vision
-* Big Data Mining
+* Big Data Mining -->
 
 
 Visit my [Google Scholar](https://scholar.google.com/citations?user=i1SmuwYAAAAJ&hl=en) profile to see my publications.
@@ -113,9 +123,13 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=i1SmuwYAAAAJ
   <span><i class="fa-solid fa-book"></i> Recent Publications</span>
 </h3>
 <ul id="publications">
+
   <li>
-      <b>Sarker, Toqi Tahamid</b>, Taminul Islam and Khaled R Ahmed. 2024. “Cannabis Seed Variant Detection using Faster R-CNN.” In 2024 <a href="https://bigdataieee.org/BigData2019/">IEEE International Conference on Advanced Computing and Communication Systems</a>
+    <b>Sarker, Toqi Tahamid</b>, Mohamed G. Embaby, Khaled R. Ahmed, and Amer AbuGhazaleh. "Gasformer: A Transformer-based Architecture for Segmenting Methane Emissions from Livestock in Optical Gas Imaging." In Proceedings of the <a href="https://cvpr.thecvf.com/">IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops</a>, pp. 5489-5497. 2024. <a href="https://openaccess.thecvf.com/content/CVPR2024W/Vision4Ag/html/Sarker_Gasformer_A_Transformer-based_Architecture_for_Segmenting_Methane_Emissions_from_Livestock_CVPRW_2024_paper.html"><i class="fas fa-link"></i></a>
   </li>
+  <!-- <li>
+      <b>Sarker, Toqi Tahamid</b>, Taminul Islam and Khaled R Ahmed. 2024. “Cannabis Seed Variant Detection using Faster R-CNN.” In 2024 <a href="https://bigdataieee.org/BigData2019/">IEEE International Conference on Advanced Computing and Communication Systems</a>
+  </li> -->
   <li>
       <b>Sarker, Toqi Tahamid</b>, and Juan M. Banda. 2019. “Solar Event Tracking with Deep Regression Networks: A Proof of Concept Evaluation.” In 2024 <a href="https://icaccs.sece.ac.in/index.html/">IEEE International Conference on Big Data (Big Data)</a>, 4942–49  <a href="https://doi.org/10.1109/BigData47090.2019.9006273"><i class="fas fa-link"></i></a>
   </li>

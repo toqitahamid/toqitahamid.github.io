@@ -1,0 +1,86 @@
+---
+title: "Gasformer: A Transformer-based Architecture for Segmenting Methane Emissions from Livestock in Optical Gas Imaging"
+date: 2024-06-18
+author:
+  - name: Toqi Tahamid Sarker
+    url: https://toqitahamid.github.io/
+    orcid: 0000-0003-2482-8059
+    affiliation: School of Computing, Southern Illinois University
+  - name: Mohamed G. Embaby
+    # url: https://www2.cs.siu.edu/~embaby/
+    # orcid: 
+    affiliation: School of Agricultural Sciences, Southern Illinois University
+  - name: Khaled R. Ahmed
+    url: https://www2.cs.siu.edu/~kahmed/
+    # orcid: 
+    affiliation: School of Computing, Southern Illinois University
+  - name: Amer AbuGhazaleh
+    # url: https://www2.cs.siu.edu/~abughazaleh/
+    # orcid: 
+    affiliation: School of Agricultural Sciences, Southern Illinois University
+categories:
+  - Semantic Segmentation
+  - Deep Learning
+pub-info:
+  reference: >-
+    Sarker, Toqi Tahamid, Mohamed G. Embaby, Khaled R. Ahmed, and Amer AbuGhazaleh. "Gasformer: A Transformer-based Architecture for Segmenting Methane Emissions from Livestock in Optical Gas Imaging." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, pp. 5489-5497. 2024. 
+  
+  links:
+    # - name: Preprint
+    #   url: sarker-banda-solar-event-tracking-preprint.pdf
+    #   icon: fa-solid fa-file-pdf
+    #   local: true
+    - name: Final version
+      url: https://openaccess.thecvf.com/content/CVPR2024W/Vision4Ag/html/Sarker_Gasformer_A_Transformer-based_Architecture_for_Segmenting_Methane_Emissions_from_Livestock_CVPRW_2024_paper.html
+      icon: fa-solid fa-scroll
+    - name: Code
+      url: https://github.com/toqitahamid/Gasformer
+      icon: fa-brands fa-github
+    # - name: Data
+    #   url: "#data-and-code"
+    #   icon: fa-solid fa-table
+  # extra: >-
+    # Presented at SABID 2019 workshop in the IEEE Big Data 2019, Los Angeles, CA, USA, December 2019.
+# doi: 10.1111/1758-5899.12984
+# haiku:
+#   - Deep regression networks track solar phenomena to generate continuously labeled solar image data,
+#   - showing great promise for the field
+---
+
+
+## Abstract
+
+Methane emissions from livestock, particularly cattle, significantly contribute to climate change. Effective
+methane emission mitigation strategies are crucial as the
+global population and demand for livestock products increase. We introduce Gasformer, a novel semantic segmentation architecture for detecting low-flow rate methane
+emissions from livestock, and controlled release experiments using optical gas imaging. We present two unique
+datasets captured with a FLIR GF77 OGI camera. Gasformer leverages a Mix Vision Transformer encoder and
+a Light-Ham decoder to generate multi-scale features and
+refine segmentation maps. Gasformer outperforms other
+state-of-the-art models on both datasets, demonstrating its
+effectiveness in detecting and segmenting methane plumes
+in controlled and real-world scenarios. On the livestock
+dataset, Gasformer achieves mIoU of 88.56%, surpassing
+other state-of-the-art models. 
+
+
+## Code
+Materials are available at: [GitHub](https://github.com/toqitahamid/Gasformer).
+
+
+<!-- The project used several evaluation metrics to measure the accuracy of the genearated bounding boxes, and the python implementation is available at [GitHub](https://github.com/toqitahamid/solar-event-tracking). -->
+
+## BibTeX citation
+
+```bibtex
+@InProceedings{Sarker_2024_CVPR,
+    author    = {Sarker, Toqi Tahamid and Embaby, Mohamed G and Ahmed, Khaled R and Abughazaleh, Amer},
+    title     = {Gasformer: A Transformer-based Architecture for Segmenting Methane Emissions from Livestock in Optical Gas Imaging},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2024},
+    pages     = {5489-5497}
+}
+
+
+```
