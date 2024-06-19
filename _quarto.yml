@@ -28,7 +28,7 @@ csl: files/bib/chicago-author-date.csl
 
 
 pagetitle: "{{< meta title >}} | Toqi Tahamid Sarker"
-# description-meta: "{{< meta description >}}"
+description-meta: "{{< meta description >}}"
 author-meta: "Toqi Tahamid Sarker"
 
 website:

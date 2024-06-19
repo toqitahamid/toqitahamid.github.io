@@ -96,9 +96,10 @@ I also worked under the supervision of [Mr. Moin Mostakim](https://www.bracu.ac.
 
 My **research interests** are:
 
+
+* Semantic Segmentation
 * Object Detection/Tracking
 * Computer Vision
-* Applied Deep Learning
 * Big Data Mining
 
 
