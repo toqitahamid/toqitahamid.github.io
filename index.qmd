@@ -89,9 +89,9 @@ page-layout: full
 
 Hello, I'm Toqi Tahamid Sarker, a first-year PhD student in Computer Science at Southern Illinois University, Carbondale, USA, seeking internship opportunities. Under the guidance of Dr. Khaled Ahmed, I apply deep learning techniques to address challenges in agriculture, focusing on semantic segmentation, object detection/tracking, and computer vision.
 
-My notable research includes developing Gasformer, a semantic segmentation architecture for accurately segmenting methane gas emissions from livestock, published in the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops. This work has significant implications for monitoring and mitigating greenhouse gas emissions in the livestock industry.
+<!-- My notable research includes developing Gasformer, a semantic segmentation architecture for accurately segmenting methane gas emissions from livestock, published in the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops. This work has significant implications for monitoring and mitigating greenhouse gas emissions in the livestock industry. -->
 
-I have also demonstrated my ability to handle large datasets and develop effective deep learning solutions through my research on solar event tracking using deep learning, published in the IEEE International Conference on Big Data.
+<!-- I have also demonstrated my ability to handle large datasets and develop effective deep learning solutions through my research on solar event tracking using deep learning, published in the IEEE International Conference on Big Data. -->
 
 I am actively seeking internships as a machine learning or deep learning engineer, where I can contribute to cutting-edge research and development projects that solve computer vision problems. I am eager to apply my expertise in semantic segmentation, object detection/tracking, and computer vision to real-world challenges and gain hands-on experience in the industry.
 
