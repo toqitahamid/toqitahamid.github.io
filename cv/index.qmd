@@ -1,7 +1,7 @@
 ---
 title: Curriculum vitæ
 # description-meta: "{{< meta website.description >}}"
-date: 2024-06-19
+date: 2024-07-12
 # title-block-banner: "#771C6D"
 title-block-banner: "#011627"
 published-title: CV last updated
@@ -40,3 +40,4 @@ page-layout: full
   <iframe src="`r rmarkdown::metadata$cv$pdf`" style="border: 0.5px"></iframe>
 </div>
 ```
+
