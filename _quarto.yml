@@ -64,8 +64,8 @@ website:
     right:
       - text: "Home"
         href: "index.qmd"
-      - text: "CV"
-        href: "cv/index.qmd"
+      # - text: "CV"
+      #   href: "cv/index.qmd"
       # - text: "Blog"
       #   href: "blog/index.qmd"
       - text: "Research"
