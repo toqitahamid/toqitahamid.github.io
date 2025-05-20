@@ -2,4 +2,4 @@
 
 /.luarc.json
 /_site/
-/_freeze/
+# /_freeze/
